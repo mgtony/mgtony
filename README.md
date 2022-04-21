@@ -4,7 +4,7 @@ I am training in Cloud Infrastructure and QA Testing to develop my professional 
 
 - 🔭 I’m currently working on [Team2_DevOps2022](https://github.com/BASURI7AIT/Team2_DevOps2022)
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Terraform, Jenkins.**
+- 🌱 I’m currently learning **Kubernetes, Docker, Terraform, Jenkins, QA Testing, Automation.**
 
 - 👯 I’m looking to collaborate on [Team2_DevOps2022](https://github.com/BASURI7AIT/Team2_DevOps2022)
 
@@ -16,7 +16,7 @@ I am training in Cloud Infrastructure and QA Testing to develop my professional 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dprex/](https://www.linkedin.com/in/dprex/)
 
-- ⚡ Fun fact **I like to develop and operate**
+- ⚡ Fun fact **I'm freaky?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
