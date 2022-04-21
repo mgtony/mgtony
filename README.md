@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
-<h3 align="center">I am passionate about computing and I got to know the world of programming as well as its infrastructure, and I am currently in constant development in IT, I started learning HTML, CSS and JavaScript on my own, I am training in Cloud Infrastructure to be able to develop my professional career .</h3>
+<h3 align="center">I am passionate about computing and I got to know the world of programming as well as its infrastructure, and I am currently in constant development in IT, I started studying programming on my own,
+I am training in Cloud Infrastructure and QA Testing to develop my professional career..</h3>
 
 - 🔭 I’m currently working on [Team2_DevOps2022](https://github.com/BASURI7AIT/Team2_DevOps2022)
 
