@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mariano</h1>
-<h3 align="center">I am passionate about computing and I got to know the world of programming as well as its infrastructure, and I am currently in constant development in IT, I started studying programming on my own, I am training in Cloud Infrastructure and QA Testing to develop my professional career.</h3>
+<h3 align="center">Analyst of 31 years with experience in intermediate administration Linux, Windows server.
+Management of SCRUM methodologies, JIRA, understanding of CI - CD processes.
+Knowledge of HTML, CSS, JS Python, Bash programming languages.
+Basic knowledge in SQL database query (MySQL).
+Basic understanding of networks / infrastructure / virtualization /
+Knowledge of Docker containers and Kubernetes.
+Basic administration of AWS, GCP, Microsoft Azure.
+basic knowledge of Terraform /Github /jenkins.
+currently learning webservices: API-REST and "Json" with POSTMAN for API-testing and Test Automation..</h3>
 
 - 🌱 I’m currently learning **Cloud, Kubernetes, Docker, Jenkins, QA Automation.**
 
